@@ -1,0 +1,3 @@
+[submodule "02-ssg"]
+	path = 02-ssg
+	url = https://github.com/JoaquinMX/poke-api-astro
