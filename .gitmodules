@@ -1,3 +1,6 @@
 [submodule "02-ssg"]
 	path = 02-ssg
 	url = https://github.com/JoaquinMX/poke-api-astro
+[submodule "03-blog"]
+	path = 03-blog
+	url = https://github.com/JoaquinMX/003-blog-astro
