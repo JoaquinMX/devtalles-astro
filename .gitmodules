@@ -4,3 +4,7 @@
 [submodule "03-blog"]
 	path = 03-blog
 	url = https://github.com/JoaquinMX/003-blog-astro
+
+[submodule "05-astro-http"]
+	path = 05-astro-http
+	url = https://github.com/JoaquinMX/05-http
